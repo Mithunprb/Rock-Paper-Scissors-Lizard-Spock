@@ -1,5 +1,5 @@
 # Rock-Paper-Scissors-Lizard-Spock
-### Refer [Rock-Paper-Scissors-Lizard-Spock](./rsp_lsp.py)
+### Refer [Rock-Paper-Scissors-Lizard-Spock](./rps_lsp.py)
 > The game was originally created by Sam Kass with Karen Bryla.
 
 > Because traditional **rock, paper, scissor** have limmeted number of outcomes
