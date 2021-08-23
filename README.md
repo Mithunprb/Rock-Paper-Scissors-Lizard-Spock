@@ -6,7 +6,7 @@
 > which lead to tie very often espicially with participates who are familear with each other.
 
 ## For Rock, Paper, Scissor
-
+Refer [Rock Paper Scissors](./Rock_Paper_Scissors.py)
 > This  is the python code for rock paper scisors
 >Above code have a different  approach toward the traditional rock paper scissors game
 >
