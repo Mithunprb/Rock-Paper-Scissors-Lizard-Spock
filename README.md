@@ -3,7 +3,9 @@
 > The game was originally created by Sam Kass with Karen Bryla.
 
 > Because traditional **rock, paper, scissor** have limmeted number of outcomes
-> which lead to tie very often espicially with participates who are familear with each other.
+> which lead to tie very often espicially with participates who are familear with each other.<br><br>
+> **Rules :** <br>
+> Scissors decapitate Scissors cuts paper, paper covers rock, rock crushes lizard, lizard poisons Spock, Spock smashes scissors, scissors decapitates lizard, lizard eats paper, paper disproves Spock, Spock vaporizes rock, and as it always has, rock crushes scissors
 
 ## For Rock, Paper, Scissor
 Refer [Rock Paper Scissors](./Rock_Paper_Scissors.py)
